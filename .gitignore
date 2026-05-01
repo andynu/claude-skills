@@ -1,3 +1,4 @@
 /claude-skills
 /claude-skills.exe
 *.exe
+/dist/
