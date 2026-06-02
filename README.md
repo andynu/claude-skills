@@ -1,5 +1,7 @@
 # claude-skills
 
+[![Personal Software](https://img.shields.io/badge/Personal%20Software-andynu.com-blue)](http://andynu.com/personalsoftware/)
+
 Tiny TUI that links Claude Code skills from a source library into a
 target `.claude/skills/` directory as symlinks (or junctions on Windows).
 
